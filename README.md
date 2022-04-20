@@ -1,4 +1,3 @@
-# Kilter-CoreData
-ToDo App With CoreData
+# Kilter-CoreData 
 
-Простой задачник для демонстрации сохранения данных с помощью CoreData, без добавления сторонних библиотек и визуальных улучшений. 
+A simple ToDoList to demonstrate saving data using CoreData, without adding third-party libraries and visual improvements.
